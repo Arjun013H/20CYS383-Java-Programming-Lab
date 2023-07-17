@@ -3,9 +3,16 @@
 
 ## Internet and Mobile Banking System
 
-### Module Split-up \| Name \| Topic \|
-Arjun C Santhosh  Users and credential json files with validation checks and Layout Design  
-Madhav Harikumar  Transaction history, Login Page, User Profile page, Making Transaction page 
+
+### Module Split-up
+| Name             | Topic                                               |
+|------------------|-----------------------------------------------------|
+| Arjun C Santhosh | Users and credential json files with validation checks |
+| Arjun C Santhosh | User Balance writing and Reading from json          |
+| Arjun C Santhosh | Layout Design                                       |
+| Madhav Harikumar | Transaction page and history                        |
+| Madhav Harikumar | Login Page                        |
+| Madhav Harikumar | User Profile page|
 
 ### Project Description
 
