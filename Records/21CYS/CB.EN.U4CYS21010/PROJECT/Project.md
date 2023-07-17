@@ -19,7 +19,7 @@ customers to conveniently access and manage their banking services using
 the internet and mobile devices.\</p\>
 
 \### Code
-
+```java
 \#### BankingSystemUI.java package com.amrita.jpl.cys21038.project;
 import javax.swing.\*; import java.awt.\*; import
 java.awt.event.ActionEvent; import java.awt.event.ActionListener; import
@@ -292,7 +292,7 @@ storedUsername = (String) user.get(\"username\"); if
 (storedUsername.equals(username)) { user.put(\"bankbalance\",
 newBalance); writeJSONFile(jsonObject); // Update the JSON file with new
 data break; } } } } }
-
+```
 \### Demo \#### Screenshots \<center\>\<img src =
 \"./images/image1.png\"\>\</center\> \<center\>\<img src =
 \"./images/image2.png\"\>\</center\> \<center\>\<img src =
