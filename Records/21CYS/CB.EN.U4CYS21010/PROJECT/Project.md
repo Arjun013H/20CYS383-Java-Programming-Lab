@@ -461,15 +461,14 @@ class UserJSONHandler {
 ### Demo 
 #### Screenshots 
 
-<center><img src = "./images/1.jpg"></center>
-<center><img src = "./images/2.jpg"></center>
-<center><img src = "./images/3.jpg"></center>
-<center><img src = "./images/4.jpg"></center>
-<center><img src = "./images/5.jpg"></center>
-<center><img src = "./images/6.jpg"></center>
-<center><img src = "./images/7.jpg"></center>
-<center><img src = "./images/8.jpg"></center>
-<center><img src = "./images/9.jpg"></center>
+<center><img src = "./images/image1.png"></center>
+<center><img src = "./images/image2.png"></center>
+<center><img src = "./images/image3.png"></center>
+<center><img src = "./images/image4.png"></center>
+<center><img src = "./images/image6.png"></center>
+<center><img src = "./images/image7.png"></center>
+<center><img src = "./images/image8.png"></center>
+
 #### Video 
 #### MAKE USING SCREENSNIP 
 
